@@ -2,7 +2,7 @@ class Superx < Formula
   desc "Autonomous superskill manager for Claude Code — one prompt to finished project"
   homepage "https://github.com/randomittin/superx"
   url "https://github.com/randomittin/superx.git", branch: "main"
-  version "1.0.0"
+  version "1.0.1"
   license "MIT"
 
   depends_on "python@3.11" => :recommended
